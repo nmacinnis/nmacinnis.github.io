@@ -1,5 +1,5 @@
 # nmacinnis
-[nmacinnis.github.io](http://nmacinnis.github.io/).
+[nmacinnis.github.io](https://nmacinnis.github.io/).
 
 
 if you are reading this probably just go there instead eh
